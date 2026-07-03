@@ -1,0 +1,363 @@
+2026-06-28 12:10:27,116 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - writeJsonFile: D:\Reza Desu~\#14 hasil final\key\identification_key_of_dung_beetle.json
+2026-06-28 12:10:27,116 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - writeOptions...
+2026-06-28 12:10:27,116 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - writeFeatures...
+2026-06-28 12:10:27,131 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-28 12:10:27,131 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan abdomen-karakter umum.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan kepala.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan kepala.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan kepala.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan kepala.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan abdomen-karakter umum.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan abdomen-karakter umum.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan abdomen-karakter umum.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan abdomen-karakter umum.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan abdomen-karakter umum.html
+2026-06-28 12:10:27,165 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - writeStates...
+2026-06-28 12:10:27,211 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna hitam.png
+2026-06-28 12:10:27,211 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna hitam.png
+2026-06-28 12:10:27,211 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna coklat.png
+2026-06-28 12:10:27,211 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna coklat.png
+2026-06-28 12:10:27,243 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - writeEntities...
+2026-06-28 12:10:27,371 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus vigilans (J) - D.png
+2026-06-28 12:10:27,385 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus vigilans (J) - L.png
+2026-06-28 12:10:27,385 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus vigilans (B) - D.png
+2026-06-28 12:10:27,385 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus vigilans (B) - D.png
+2026-06-28 12:10:27,385 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus vigilans (B) - L.png
+2026-06-28 12:10:27,401 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus ventralis (J) - D.png
+2026-06-28 12:10:27,409 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus ventralis (J) - L.png
+2026-06-28 12:10:27,417 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus ventralis (B) - D.png
+2026-06-28 12:10:27,417 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus ventralis (B) - D.png
+2026-06-28 12:10:27,417 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus ventralis (B) - L.png
+2026-06-28 12:10:27,417 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus orientalis (J) - D.png
+2026-06-28 12:10:27,432 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus orientalis (J) - L.png
+2026-06-28 12:10:27,432 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus orientalis (B) - D.png
+2026-06-28 12:10:27,432 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus orientalis (B) - D.png
+2026-06-28 12:10:27,432 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus orientalis (B) - L.png
+2026-06-28 12:10:27,432 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus trituber (D) - J.png
+2026-06-28 12:10:27,448 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus trituber (J) - L.png
+2026-06-28 12:10:27,448 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus trituber (B) - D.png
+2026-06-28 12:10:27,448 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus trituber (B) - D.png
+2026-06-28 12:10:27,460 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus trituber (B) - L.png
+2026-06-28 12:10:27,464 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus obscurior (J) - D.png
+2026-06-28 12:10:27,464 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus obscurior (J) - L.png
+2026-06-28 12:10:27,464 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus obscurior (B) - D.png
+2026-06-28 12:10:27,464 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus obscurior (B) - D.png
+2026-06-28 12:10:27,480 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus obscurior (B) - L.png
+2026-06-28 12:10:27,480 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus limbatus (J) - D.png
+2026-06-28 12:10:27,480 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus limbatus (J) - L.png
+2026-06-28 12:10:27,480 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus limbatus (B) - D.png
+2026-06-28 12:10:27,480 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus limbatus (B) - D.png
+2026-06-28 12:10:27,496 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus limbatus (B) - L.png
+2026-06-28 12:10:27,496 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus waterstradti (J) - D.png
+2026-06-28 12:10:27,496 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus waterstradti (J) - L.png
+2026-06-28 12:10:27,512 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus waterstradti (B) - D.png
+2026-06-28 12:10:27,512 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus waterstradti (B) - D.png
+2026-06-28 12:10:27,512 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus waterstradti (B) - L.png
+2026-06-28 12:10:27,512 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus armatus (J) - D.png
+2026-06-28 12:10:27,512 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus armatus (J) - L.png
+2026-06-28 12:10:27,512 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus armatus (B) - D.png
+2026-06-28 12:10:27,528 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus armatus (B) - D.png
+2026-06-28 12:10:27,528 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus armatus (B) - L.png
+2026-06-28 12:10:27,528 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Catharsius renaudpailiani (J) - D.png
+2026-06-28 12:10:27,543 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Catharsius renaudpailiani (J) - L.png
+2026-06-28 12:10:27,543 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Catharsius renaudpailiani (B) - D.png
+2026-06-28 12:10:27,543 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Catharsius renaudpailiani (B) - D.png
+2026-06-28 12:10:27,543 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Catharsius renaudpailiani (B) - L.png
+2026-06-28 12:10:27,543 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Caccobius unicornis (J) - D.png
+2026-06-28 12:10:27,559 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Caccobius unicornis (J) - L.png
+2026-06-28 12:10:27,559 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Caccobius unicornis (B) - D.png
+2026-06-28 12:10:27,559 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Caccobius unicornis (B) - D.png
+2026-06-28 12:10:27,569 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Caccobius unicornis (B) - L.png
+2026-06-28 12:10:27,569 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - writeSubsets...
+2026-06-28 12:10:27,569 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - writeScoreArrays...
+2026-06-28 12:10:27,569 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - writeMeasures...
+2026-06-28 12:10:27,569 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - writeDependencyArrays...
+2026-06-28 12:10:27,569 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - writeScopeArrays...
+2026-06-28 12:10:27,569 [Thread-7] INFO com.cbit.lucid.player.export.PlayerExport - writeHtmlFile: D:\Reza Desu~\#14 hasil final\identification_key_of_dung_beetle.html
+2026-06-28 12:10:27,575 [Thread-7] INFO com.cbit.lucid.builder.application.gui.deploy.DeployKeyDialog - copyMediaFiles: D:\Reza Desu~\#14 hasil final
+2026-06-29 10:03:21,361 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - writeJsonFile: D:\Reza Desu~\#14 hasil final\key\identification_key_of_dung_beetle.json
+2026-06-29 10:03:21,361 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - writeOptions...
+2026-06-29 10:03:21,361 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - writeFeatures...
+2026-06-29 10:03:21,398 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan kepala.html
+2026-06-29 10:03:21,424 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-29 10:03:21,424 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-29 10:03:21,424 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-29 10:03:21,457 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan abdomen-karakter umum.html
+2026-06-29 10:03:21,457 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan abdomen-karakter umum.html
+2026-06-29 10:03:21,457 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan kepala.html
+2026-06-29 10:03:21,457 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan kepala.html
+2026-06-29 10:03:21,457 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan kepala.html
+2026-06-29 10:03:21,462 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan kepala.html
+2026-06-29 10:03:21,462 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-29 10:03:21,462 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-29 10:03:21,462 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-29 10:03:21,462 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-29 10:03:21,462 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-29 10:03:21,462 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan toraks.html
+2026-06-29 10:03:21,462 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan abdomen-karakter umum.html
+2026-06-29 10:03:21,462 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan abdomen-karakter umum.html
+2026-06-29 10:03:21,462 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan abdomen-karakter umum.html
+2026-06-29 10:03:21,462 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan abdomen-karakter umum.html
+2026-06-29 10:03:21,462 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Html/sumbu dan abdomen-karakter umum.html
+2026-06-29 10:03:21,462 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - writeStates...
+2026-06-29 10:03:21,524 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260628_113649.jpg
+2026-06-29 10:03:21,539 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/IMG_20260628_113649.jpg
+2026-06-29 10:03:21,552 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260628_113710.jpg
+2026-06-29 10:03:21,571 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260628_113734.jpg
+2026-06-29 10:03:21,571 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/IMG_20260628_113734.jpg
+2026-06-29 10:03:21,584 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260628_113753.jpg
+2026-06-29 10:03:21,621 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260628_113812.jpg
+2026-06-29 10:03:21,636 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/IMG_20260628_113812.jpg
+2026-06-29 10:03:21,648 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260628_113828.jpg
+2026-06-29 10:03:21,664 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Tepi klipeus bulat.png
+2026-06-29 10:03:21,701 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Tepi klipeus bulat.png
+2026-06-29 10:03:21,701 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Tepi klipeus briefly truncated.png
+2026-06-29 10:03:21,713 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Tepi klipeus briefly truncated.png
+2026-06-29 10:03:21,716 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Tepi klipeus truncated.png
+2026-06-29 10:03:21,716 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Tepi klipeus truncated.png
+2026-06-29 10:03:21,728 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Tepi klipeus notched.png
+2026-06-29 10:03:21,728 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Tepi klipeus notched.png
+2026-06-29 10:03:21,744 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Gena angulate.png
+2026-06-29 10:03:21,763 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Gena angulate.png
+2026-06-29 10:03:21,763 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Gena rounded.png
+2026-06-29 10:03:21,763 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Gena rounded.png
+2026-06-29 10:03:21,780 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Frontal karina long.png
+2026-06-29 10:03:21,780 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Frontal karina long.png
+2026-06-29 10:03:21,780 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Frontal karina short.png
+2026-06-29 10:03:21,780 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Frontal karina short.png
+2026-06-29 10:03:21,792 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Frontal karina 2 protuberances.png
+2026-06-29 10:03:21,792 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Frontal karina 2 protuberances.png
+2026-06-29 10:03:21,792 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Frontal karina absent.png
+2026-06-29 10:03:21,792 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Frontal karina absent.png
+2026-06-29 10:03:21,824 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna hitam.png
+2026-06-29 10:03:21,824 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna hitam.png
+2026-06-29 10:03:21,824 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna kilapan hijau.png
+2026-06-29 10:03:21,840 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna kilapan hijau.png
+2026-06-29 10:03:21,855 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna coklat.png
+2026-06-29 10:03:21,855 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna coklat.png
+2026-06-29 10:03:21,855 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna hitam atau coklat dengan pola kuning.png
+2026-06-29 10:03:21,855 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna hitam atau coklat dengan pola kuning.png
+2026-06-29 10:03:21,871 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna coklat dengan bintik hitam.png
+2026-06-29 10:03:21,871 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna coklat dengan bintik hitam.png
+2026-06-29 10:03:21,887 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Tonjolan 1.png
+2026-06-29 10:03:21,887 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Tonjolan 1.png
+2026-06-29 10:03:21,903 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Tonjolan 2.png
+2026-06-29 10:03:21,903 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Tonjolan 2.png
+2026-06-29 10:03:21,903 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Tonjolan 3.png
+2026-06-29 10:03:21,903 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Tonjolan 3.png
+2026-06-29 10:03:21,903 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Tonjolan tidak ada.png
+2026-06-29 10:03:21,903 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Tonjolan tidak ada.png
+2026-06-29 10:03:21,903 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/3 gigi tepi luar.png
+2026-06-29 10:03:21,918 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/3 gigi tepi luar.png
+2026-06-29 10:03:21,918 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/4 gigi tepi luar.png
+2026-06-29 10:03:21,918 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/4 gigi tepi luar.png
+2026-06-29 10:03:21,935 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Femur ada pola warna.png
+2026-06-29 10:03:21,951 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Femur ada pola warna.png
+2026-06-29 10:03:21,951 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Femur tidak ada pola warna.png
+2026-06-29 10:03:21,966 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Femur tidak ada pola warna.png
+2026-06-29 10:03:21,966 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna hitam.png
+2026-06-29 10:03:21,966 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna hitam.png
+2026-06-29 10:03:21,966 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna coklat.png
+2026-06-29 10:03:21,966 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna coklat.png
+2026-06-29 10:03:21,966 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna hitam dengan pola kuing.png
+2026-06-29 10:03:21,982 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna hitam dengan pola kuing.png
+2026-06-29 10:03:21,982 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna hitam dengan corak coklat atau kuning.png
+2026-06-29 10:03:21,982 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna hitam dengan corak coklat atau kuning.png
+2026-06-29 10:03:21,998 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna coklat dengan hitam.png
+2026-06-29 10:03:21,998 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna coklat dengan hitam.png
+2026-06-29 10:03:22,014 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna coklat dengan kuning.png
+2026-06-29 10:03:22,033 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna coklat dengan kuning.png
+2026-06-29 10:03:22,046 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Skutellum ada.png
+2026-06-29 10:03:22,046 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Skutellum ada.png
+2026-06-29 10:03:22,077 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Skutellum tidak ada.png
+2026-06-29 10:03:22,077 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Skutellum tidak ada.png
+2026-06-29 10:03:22,093 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Pigidium tidak ada.png
+2026-06-29 10:03:22,109 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Pigidium tidak ada.png
+2026-06-29 10:03:22,125 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Pigidium ada.png
+2026-06-29 10:03:22,125 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Pigidium ada.png
+2026-06-29 10:03:22,125 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna Pigidium hitam.png
+2026-06-29 10:03:22,144 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna Pigidium hitam.png
+2026-06-29 10:03:22,156 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna Pigidium coklat.png
+2026-06-29 10:03:22,156 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna Pigidium coklat.png
+2026-06-29 10:03:22,156 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Warna Pigidium kuning.png
+2026-06-29 10:03:22,174 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Warna Pigidium kuning.png
+2026-06-29 10:03:22,191 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Bentuk tubuh bulat.png
+2026-06-29 10:03:22,204 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Bentuk tubuh bulat.png
+2026-06-29 10:03:22,204 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Bentuk tubuh tebal.png
+2026-06-29 10:03:22,220 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Bentuk tubuh sejajar.png
+2026-06-29 10:03:22,220 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Bentuk tubuh sejajar.png
+2026-06-29 10:03:22,236 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Bentuk tubuh pipih.png
+2026-06-29 10:03:22,236 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Seta panjang.png
+2026-06-29 10:03:22,236 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Seta panjang.png
+2026-06-29 10:03:22,256 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Seta pendek.png
+2026-06-29 10:03:22,256 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Seta pendek.png
+2026-06-29 10:03:22,321 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Seta kurang terlihat.png
+2026-06-29 10:03:22,321 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Seta kurang terlihat.png
+2026-06-29 10:03:22,321 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - writeEntities...
+2026-06-29 10:03:22,339 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus echinus - D.png
+2026-06-29 10:03:22,352 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus echinus - D.png
+2026-06-29 10:03:22,383 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus echinus - L.png
+2026-06-29 10:03:22,490 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103623.png
+2026-06-29 10:03:22,514 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus vigilans (B) - D.png
+2026-06-29 10:03:22,522 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus vigilans (B) - D.png
+2026-06-29 10:03:22,667 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus vigilans (B) - L.png
+2026-06-29 10:03:22,698 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus vigilans (J) - D.png
+2026-06-29 10:03:22,720 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus vigilans (J) - L.png
+2026-06-29 10:03:22,857 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103925.png
+2026-06-29 10:03:22,873 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus ventralis (B) - D.png
+2026-06-29 10:03:22,873 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus ventralis (B) - D.png
+2026-06-29 10:03:22,897 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus ventralis (B) - L.png
+2026-06-29 10:03:22,939 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus ventralis (J) - D.png
+2026-06-29 10:03:22,985 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus ventralis (J) - L.png
+2026-06-29 10:03:23,183 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103856.png
+2026-06-29 10:03:23,208 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus orientalis (B) - D.png
+2026-06-29 10:03:23,212 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus orientalis (B) - D.png
+2026-06-29 10:03:23,256 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus orientalis (B) - L.png
+2026-06-29 10:03:23,292 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus orientalis (J) - D.png
+2026-06-29 10:03:23,322 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus orientalis (J) - L.png
+2026-06-29 10:03:23,483 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103754.png
+2026-06-29 10:03:23,496 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus trituber (B) - D.png
+2026-06-29 10:03:23,496 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus trituber (B) - D.png
+2026-06-29 10:03:23,545 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus trituber (B) - L.png
+2026-06-29 10:03:23,609 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus trituber (D) - J.png
+2026-06-29 10:03:23,638 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus trituber (J) - L.png
+2026-06-29 10:03:23,782 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103835.png
+2026-06-29 10:03:23,815 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus obscurior (B) - D.png
+2026-06-29 10:03:23,817 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus obscurior (B) - D.png
+2026-06-29 10:03:23,863 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus obscurior (B) - L.png
+2026-06-29 10:03:23,909 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus obscurior (J) - D.png
+2026-06-29 10:03:23,925 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus obscurior (J) - L.png
+2026-06-29 10:03:24,084 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103731.png
+2026-06-29 10:03:24,102 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus limbatus (B) - D.png
+2026-06-29 10:03:24,120 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus limbatus (B) - D.png
+2026-06-29 10:03:24,149 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus limbatus (B) - L.png
+2026-06-29 10:03:24,165 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus limbatus (J) - D.png
+2026-06-29 10:03:24,203 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus limbatus (J) - L.png
+2026-06-29 10:03:24,309 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_113755.png
+2026-06-29 10:03:24,317 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus crassicollis - D.png
+2026-06-29 10:03:24,324 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus crassicollis - D.png
+2026-06-29 10:03:24,358 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus crassicollis - L.png
+2026-06-29 10:03:24,531 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103601.png
+2026-06-29 10:03:24,552 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus waterstradti (B) - D.png
+2026-06-29 10:03:24,566 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus waterstradti (B) - D.png
+2026-06-29 10:03:24,595 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus waterstradti (B) - L.png
+2026-06-29 10:03:24,618 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus waterstradti (J) - D.png
+2026-06-29 10:03:24,685 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus waterstradti (J) - L.png
+2026-06-29 10:03:24,802 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103945.png
+2026-06-29 10:03:24,824 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus luridipennis - D.png
+2026-06-29 10:03:24,834 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus luridipennis - D.png
+2026-06-29 10:03:24,865 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus luridipennis - L.png
+2026-06-29 10:03:25,008 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103708.png
+2026-06-29 10:03:25,023 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus rectecornutus - D.png
+2026-06-29 10:03:25,023 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus rectecornutus - D.png
+2026-06-29 10:03:25,056 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus rectecornutus - L.png
+2026-06-29 10:03:25,167 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103815.png
+2026-06-29 10:03:25,183 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus armatus (B) - D.png
+2026-06-29 10:03:25,199 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus armatus (B) - D.png
+2026-06-29 10:03:25,231 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus armatus (B) - L.png
+2026-06-29 10:03:25,279 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus armatus (J) - D.png
+2026-06-29 10:03:25,294 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus armatus (J) - L.png
+2026-06-29 10:03:25,408 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103542.png
+2026-06-29 10:03:25,422 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus liliputanus - D.png
+2026-06-29 10:03:25,422 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus liliputanus - D.png
+2026-06-29 10:03:25,474 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus liliputanus - L.png
+2026-06-29 10:03:25,586 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103646.png
+2026-06-29 10:03:25,598 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Liatongus femoratus - D.png
+2026-06-29 10:03:25,614 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Liatongus femoratus - D.png
+2026-06-29 10:03:25,630 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Liatongus femoratus - L.png
+2026-06-29 10:03:26,046 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103503.png
+2026-06-29 10:03:26,062 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Oniticellus tesselatus - D.png
+2026-06-29 10:03:26,078 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Oniticellus tesselatus - D.png
+2026-06-29 10:03:26,094 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Oniticellus tesselatus - L.png
+2026-06-29 10:03:26,142 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103523.png
+2026-06-29 10:03:26,142 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Catharsius renaudpailiani (B) - D.png
+2026-06-29 10:03:26,178 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Catharsius renaudpailiani (B) - D.png
+2026-06-29 10:03:26,205 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Catharsius renaudpailiani (B) - L.png
+2026-06-29 10:03:26,246 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Catharsius renaudpailiani (J) - D.png
+2026-06-29 10:03:26,285 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Catharsius renaudpailiani (J) - L.png
+2026-06-29 10:03:26,383 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_113812.png
+2026-06-29 10:03:26,403 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Caccobius unicornis (B) - D.png
+2026-06-29 10:03:26,415 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Caccobius unicornis (B) - D.png
+2026-06-29 10:03:26,446 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Caccobius unicornis (B) - L.png
+2026-06-29 10:03:26,499 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Caccobius unicornis (J) - D.png
+2026-06-29 10:03:26,546 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Caccobius unicornis (J) - L.png
+2026-06-29 10:03:26,685 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/IMG_20260625_103431.png
+2026-06-29 10:03:26,701 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Aphodius sp. - D.png
+2026-06-29 10:03:26,701 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Aphodius sp. - D.png
+2026-06-29 10:03:26,734 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Aphodius sp. - L.png
+2026-06-29 10:03:26,814 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Ukuran (16).png
+2026-06-29 10:03:26,815 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus vigilans (J) - D.png
+2026-06-29 10:03:26,844 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus vigilans (J) - D.png
+2026-06-29 10:03:26,861 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus vigilans (J) - L.png
+2026-06-29 10:03:26,861 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus vigilans (B) - D.png
+2026-06-29 10:03:26,861 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus vigilans (B) - D.png
+2026-06-29 10:03:26,861 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus vigilans (B) - L.png
+2026-06-29 10:03:26,876 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus ventralis (J) - D.png
+2026-06-29 10:03:26,892 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus ventralis (J) - D.png
+2026-06-29 10:03:26,892 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus ventralis (J) - L.png
+2026-06-29 10:03:26,892 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus ventralis (B) - D.png
+2026-06-29 10:03:26,892 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus ventralis (B) - D.png
+2026-06-29 10:03:26,915 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus ventralis (B) - L.png
+2026-06-29 10:03:26,915 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus orientalis (J) - D.png
+2026-06-29 10:03:26,924 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus orientalis (J) - D.png
+2026-06-29 10:03:26,924 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus orientalis (J) - L.png
+2026-06-29 10:03:26,924 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus orientalis (B) - D.png
+2026-06-29 10:03:26,924 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus orientalis (B) - D.png
+2026-06-29 10:03:26,940 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus orientalis (B) - L.png
+2026-06-29 10:03:26,940 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus trituber (D) - J.png
+2026-06-29 10:03:26,973 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus trituber (D) - J.png
+2026-06-29 10:03:26,980 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus trituber (J) - L.png
+2026-06-29 10:03:26,980 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus trituber (B) - D.png
+2026-06-29 10:03:26,980 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus trituber (B) - D.png
+2026-06-29 10:03:26,989 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus trituber (B) - L.png
+2026-06-29 10:03:26,995 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus obscurior (J) - D.png
+2026-06-29 10:03:26,995 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus obscurior (J) - D.png
+2026-06-29 10:03:27,002 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus obscurior (J) - L.png
+2026-06-29 10:03:27,002 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus obscurior (B) - D.png
+2026-06-29 10:03:27,004 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus obscurior (B) - D.png
+2026-06-29 10:03:27,009 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus obscurior (B) - L.png
+2026-06-29 10:03:27,012 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus limbatus (J) - D.png
+2026-06-29 10:03:27,012 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus limbatus (J) - D.png
+2026-06-29 10:03:27,019 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus limbatus (J) - L.png
+2026-06-29 10:03:27,020 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus limbatus (B) - D.png
+2026-06-29 10:03:27,020 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus limbatus (B) - D.png
+2026-06-29 10:03:27,026 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus limbatus (B) - L.png
+2026-06-29 10:03:27,033 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus waterstradti (J) - D.png
+2026-06-29 10:03:27,036 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus waterstradti (J) - D.png
+2026-06-29 10:03:27,041 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus waterstradti (J) - L.png
+2026-06-29 10:03:27,043 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus waterstradti (B) - D.png
+2026-06-29 10:03:27,043 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus waterstradti (B) - D.png
+2026-06-29 10:03:27,049 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus waterstradti (B) - L.png
+2026-06-29 10:03:27,056 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus armatus (J) - D.png
+2026-06-29 10:03:27,056 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus armatus (J) - D.png
+2026-06-29 10:03:27,056 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus armatus (J) - L.png
+2026-06-29 10:03:27,056 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus armatus (B) - D.png
+2026-06-29 10:03:27,056 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Onthophagus armatus (B) - D.png
+2026-06-29 10:03:27,066 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Onthophagus armatus (B) - L.png
+2026-06-29 10:03:27,072 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Catharsius renaudpailiani (J) - D.png
+2026-06-29 10:03:27,072 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Catharsius renaudpailiani (J) - D.png
+2026-06-29 10:03:27,083 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Catharsius renaudpailiani (J) - L.png
+2026-06-29 10:03:27,083 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Catharsius renaudpailiani (B) - D.png
+2026-06-29 10:03:27,083 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Catharsius renaudpailiani (B) - D.png
+2026-06-29 10:03:27,090 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Catharsius renaudpailiani (B) - L.png
+2026-06-29 10:03:27,096 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Caccobius unicornis (J) - D.png
+2026-06-29 10:03:27,096 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Caccobius unicornis (J) - D.png
+2026-06-29 10:03:27,101 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Caccobius unicornis (J) - L.png
+2026-06-29 10:03:27,101 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Caccobius unicornis (B) - D.png
+2026-06-29 10:03:27,101 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Thumbs/Caccobius unicornis (B) - D.png
+2026-06-29 10:03:27,109 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - file exists, returning path: Images/Caccobius unicornis (B) - L.png
+2026-06-29 10:03:27,109 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - writeSubsets...
+2026-06-29 10:03:27,109 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - writeScoreArrays...
+2026-06-29 10:03:27,109 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - writeMeasures...
+2026-06-29 10:03:27,109 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - writeDependencyArrays...
+2026-06-29 10:03:27,109 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - writeScopeArrays...
+2026-06-29 10:03:27,109 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - writeHtmlFile: D:\Reza Desu~\#14 hasil final\identification_key_of_dung_beetle_player.html
+2026-06-29 10:03:27,227 [Thread-1] INFO com.cbit.lucid.builder.application.gui.deploy.DeployKeyDialog - copyMediaFiles: D:\Reza Desu~\#14 hasil final
+2026-06-29 10:03:27,389 [Thread-1] INFO com.cbit.lucid.player.export.PlayerExport - writeHomeFile: D:\Reza Desu~\#14 hasil final\identification_key_of_dung_beetle.html
